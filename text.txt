@@ -1,0 +1,17 @@
+BIM technology represents a revolution in the construction industry, integrating design, cost,
+scheduling, and operational processes into a single, cohesive digital environment. However, it requires
+specialists to possess significantly greater competencies than traditional work methods, presenting
+both challenges and new career opportunities. The digitalization and automation of construction
+processes, expected to intensify in the near future, are transforming the roles of engineers, designers,
+and BIM managers, making their expertise crucial to project success. BIM enables simulations and
+analysis of potential issues, cost and schedule optimization, and supports data management,
+environmental aspects, and facility operation. Thanks to BIM, construction process participants can
+collaborate more effectively, minimizing errors and increasing budget accuracy. The implementation
+of this technology is not only progress but also a necessity for improving professional qualifications,
+which in the long run leads to greater efficiency and cost savings throughout the entire investment lifecycle
+In the following study, the key elements of the BIM methodology/technology were first presented.
+Then, the advantages and disadvantages of BIM technology were discussed and compared, along with
+its potential applications in design, cost, scheduling, and environmental analyses. Additionally, the
+challenges related to its implementation and practical use in decision-making processes were
+examined. The study also explores the possibilities of using software engineering to automate
+processes at every stage of project development.
