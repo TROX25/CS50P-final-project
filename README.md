@@ -1,6 +1,6 @@
 # TEXT ANALYZER
-    #### Video Demo:  https://www.youtube.com/watch?v=-Rhe7z-8ib0
-    #### Description:
+     Video Demo:  https://www.youtube.com/watch?v=-Rhe7z-8ib0
+     Description:
 
     - Text Analyzer takes a .txt file (text.txt by default) from user input via terminal using ArgParse.
 
